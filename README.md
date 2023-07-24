@@ -1,5 +1,6 @@
-# batora9
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batora9
-)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=batora9)]
+# Batrachotoxin's Profile
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batora9&theme=highcontrast&layout=default)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=batora9&theme=transparent&layout=default)]
 (https://github.com/anuraghazra/github-readme-stats)
+
