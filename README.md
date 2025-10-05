@@ -1,7 +1,29 @@
-# Batrachotoxin's Profile
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=batora9&theme=transparent&layout=default&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batora9&layout=compact&theme=transparent" />
-</a>
+## Profile
+
+<p align="left">
+  <picture>
+        <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.base.svg" width="400" />
+	<source media="(prefers-color-scheme: light)" srcset="output/metrics.base.svg" width="400" />
+	<img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/batora9/batora9/output-3d-contrib/day.svg" />
+  </picture>
+  <picture>
+   	<source media="(prefers-color-scheme: dark)"  srcset="output/details.svg" width="400" />
+	<source media="(prefers-color-scheme: light)" srcset="output/details.svg" width="400" />
+	<img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/batora9/batora9/output-3d-contrib/day.svg" />
+  </picture>
+</p>
+
+<p align="left" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="profile-3d-contrib/profile-night-rainbow.svg" width="700" />
+	  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg" width="700" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/batora9/batora9/output-3d-contrib/day.svg" />
+	</picture>
+</p>　
+
+<p align="left">
+<picture>
+  <source media="(prefers-color-scheme: light)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
+  <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
+ <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/batora9/batora9/output-3d-contrib/day.svg" />
+</picture>
